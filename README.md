@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Lu 👋
 
-- 💻 I’m currently working on a Mobile project
-- 👯 I’m looking to collaborate on any Mobile App idea
+- 💻 I’m currently working on a Mobile project.
+- 👯 I’m looking to collaborate on any Mobile App idea.
 - 📫 How to reach me: luu.pinero@gmail.com
 
 
